@@ -1,0 +1,4 @@
+X=int(input("Enter the radius :"))
+Pi=3.14159
+Area=pi*x*x
+Print("Area of circle :",area) 
